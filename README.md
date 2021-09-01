@@ -17,6 +17,7 @@ downleft and downright. For the implementation video checkout [this link](https:
 ### Pygame Simulation 
 ![BFS](Breadth First Search/bfs.gif)
 
+
 ## Dijkstra's Algorithm
 This project implements the generalized solver for a point robot using Dijkstra's
 algorithm. It has a Node class having the attributes and methods useful for executing
@@ -28,6 +29,7 @@ finding the goal state for the maze.
  
 ### Pygame Simulation 
 ![DJ](Dijkstara's Search/dj.gif)
+
 
 ## Astar Algorithm 
 This project implements the generalized solver for a point robot using Astar  
@@ -41,6 +43,7 @@ finding the goal state for the maze.
 ### Pygame Simulation 
 ![Astar](Astar/Astar.gif)
 
+
 ## Astar with Differential constraints and simulation in ROS Gazebo
 This is an extension of the previous Astar implementation with simulation in ROS gazebo environment. 
 
@@ -49,6 +52,15 @@ This is an extension of the previous Astar implementation with simulation in ROS
 
 ### Gazebo Simulation 
 ![Astar in ros](Astar_implemenatation_in_ROS/ros.gif)
+
+
+### Dependencies
+1) rospy
+2) rospkg
+3) tf
+4) geometry_msgs
+5) sensor_msgs
+
 
 ### How to run the code 
 1) The package for running the simulation is named *velocity_publisher*.
@@ -73,17 +85,6 @@ to follow.):
 change the robot spawning position (x, y, yaw) in the *bringup.launch* file
 according to the ROS envt. coordinates).
 
-### Dependencies
-
--rospy
-
--rospkg
-
--tf
-
--geometry_msgs
-
--sensor_msgs
 
 
 
