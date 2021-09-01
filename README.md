@@ -28,7 +28,7 @@ finding the goal state for the maze.
 ![DJ](Astar/map.png)
  
 ### Pygame Simulation 
-![DJ](Dijkstara's Search/dj.gif)
+![DJ](Graph-based-Planning-Algorithms/Dijkstra's Search/dj.gif)
 
 
 ## Astar Algorithm 
@@ -44,6 +44,9 @@ finding the goal state for the maze.
 
 ## Astar with Differential constraints and simulation in ROS Gazebo
 This is an extension of the previous Astar implementation with simulation in ROS gazebo environment. 
+
+### Map Dimensions
+![DJ](Astar_implemenatation_in_ROS/map.png)
 
 ### Pygame Simulation 
 ![Astar](Astar_implemenatation_in_ROS/astar.gif)
