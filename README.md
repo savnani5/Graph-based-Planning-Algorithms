@@ -25,7 +25,7 @@ Dijkstra's algorithm. Also, it keeps track of the parent node for backtracking a
 finding the goal state for the maze.
 
 ### Map Dimensions
-![DJ](Dijkstara's Search/map.png)
+![DJ](Astar/map.png)
  
 ### Pygame Simulation 
 ![DJ](Dijkstara's Search/dj.gif)
@@ -37,8 +37,6 @@ algorithm. It has a Node class having the attributes and methods useful for exec
 the algorithm. Also, it keeps track of the parent node for backtracking after
 finding the goal state for the maze.
 
-### Map Dimensions
-![Astar](Astar/map.png)
  
 ### Pygame Simulation 
 ![Astar](Astar/Astar.gif)
