@@ -12,10 +12,10 @@ plane equations and it has 8 actions i.e up, down, left, right, upleft, upright,
 downleft and downright. For the implementation video checkout [this link](https://drive.google.com/file/d/1KIGiUc6lRY8RuYK_3aIm1XiIpMVz_Fxm/view?usp=sharing).
 
 ### Map Dimensions
-![BFS](Graph-based-Planning-Algorithms/Breadth First Search/Map-updated dimentions.png) 
+![BFS](Breadth_First_Search/map.png) 
  
 ### Pygame Simulation 
-![BFS](Graph-based-Planning-Algorithms/Breadth First Search/bfs.gif)
+![BFS](Breadth_First_Search/bfs.gif)
 
 
 ## Dijkstra's Algorithm
@@ -28,7 +28,7 @@ finding the goal state for the maze. For the implementation video checkout [this
 ![DJ](Astar/map.png)
  
 ### Pygame Simulation 
-![DJ](Graph-based-Planning-Algorithms/Dijkstra's-Search/dj.gif)
+![DJ](Dijkstra's_Search/dj.gif)
 
 
 ## Astar Algorithm 
