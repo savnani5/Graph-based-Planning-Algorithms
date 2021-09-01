@@ -12,10 +12,10 @@ plane equations and it has 8 actions i.e up, down, left, right, upleft, upright,
 downleft and downright. For the implementation video checkout [this link](https://drive.google.com/file/d/1KIGiUc6lRY8RuYK_3aIm1XiIpMVz_Fxm/view?usp=sharing).
 
 ### Map Dimensions
-![BFS](Breadth-First-Search/Map-updated dimentions.png)
+![BFS](Graph-based-Planning-Algorithms/Breadth First Search/Map-updated dimentions.png) 
  
 ### Pygame Simulation 
-![BFS](Breadth-First-Search/bfs.gif)
+![BFS](Graph-based-Planning-Algorithms/Breadth First Search/bfs.gif)
 
 
 ## Dijkstra's Algorithm
