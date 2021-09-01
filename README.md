@@ -12,30 +12,30 @@ plane equations and it has 8 actions i.e up, down, left, right, upleft, upright,
 downleft and downright. For the implementation video checkout [this link](https://drive.google.com/file/d/1KIGiUc6lRY8RuYK_3aIm1XiIpMVz_Fxm/view?usp=sharing).
 
 ### Map Dimensions
-![BFS](Breadth First Search/Map-updated dimentions.png)
+![BFS](Breadth-First-Search/Map-updated dimentions.png)
  
 ### Pygame Simulation 
-![BFS](Breadth First Search/bfs.gif)
+![BFS](Breadth-First-Search/bfs.gif)
 
 
 ## Dijkstra's Algorithm
 This project implements the generalized solver for a point robot using Dijkstra's
 algorithm. It has a Node class having the attributes and methods useful for executing
 Dijkstra's algorithm. Also, it keeps track of the parent node for backtracking after
-finding the goal state for the maze.
+finding the goal state for the maze. For the implementation video checkout [this link](https://drive.google.com/file/d/1rKrIdbSIvRrdPHk6g9vpPVPmPgG8I2FC/view?usp=sharing).
 
 ### Map Dimensions
 ![DJ](Astar/map.png)
  
 ### Pygame Simulation 
-![DJ](Graph-based-Planning-Algorithms/Dijkstra's Search/dj.gif)
+![DJ](Graph-based-Planning-Algorithms/Dijkstra's-Search/dj.gif)
 
 
 ## Astar Algorithm 
 This project implements the generalized solver for a point robot using Astar  
 algorithm. It has a Node class having the attributes and methods useful for executing
 the algorithm. Also, it keeps track of the parent node for backtracking after
-finding the goal state for the maze.
+finding the goal state for the maze. For the implementation video checkout [this link](https://drive.google.com/file/d/1Y1BaySj0dLIgrCS5CBwUw2dQXM_F6MRK/view?usp=sharing).
 
  
 ### Pygame Simulation 
@@ -43,7 +43,7 @@ finding the goal state for the maze.
 
 
 ## Astar with Differential constraints and simulation in ROS Gazebo
-This is an extension of the previous Astar implementation with simulation in ROS gazebo environment. 
+This is an extension of the previous Astar implementation with simulation in ROS gazebo environment. For the implementation video checkout [this link](https://drive.google.com/file/d/1Raet7Rv4Xu6kGkfY20fyEApm3RU-xcgq/view?usp=sharing).
 
 ### Map Dimensions
 ![DJ](Astar_implemenatation_in_ROS/map.png)
