@@ -74,10 +74,15 @@ change the robot spawning position (x, y, yaw) in the *bringup.launch* file
 according to the ROS envt. coordinates).
 
 ### Dependencies
+
 -rospy
+
 -rospkg
+
 -tf
+
 -geometry_msgs
+
 -sensor_msgs
 
 
