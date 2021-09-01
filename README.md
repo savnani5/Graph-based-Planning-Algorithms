@@ -24,10 +24,10 @@ Dijkstra's algorithm. Also, it keeps track of the parent node for backtracking a
 finding the goal state for the maze.
 
 ### Map Dimensions
-![DJ](Breadth First Search/map.png)
+![DJ](Dijkstara's Search/map.png)
  
 ### Pygame Simulation 
-![DJ](Dijkstara's Search/bfs.gif)
+![DJ](Dijkstara's Search/dj.gif)
 
 ## Astar Algorithm 
 This project implements the generalized solver for a point robot using Astar  
