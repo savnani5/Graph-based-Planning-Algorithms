@@ -49,7 +49,7 @@ This is an extension of the previous Astar implementation with simulation in ROS
 ![Astar](Astar_implemenatation_in_ROS/astar.gif)
 
 ### Gazebo Simulation 
-![Astar in ros](Astar_implemenatation_in_ROS/ro1s.gif)
+![Astar in ros](Astar_implemenatation_in_ROS/ros1.gif)
 
 
 ### Dependencies
