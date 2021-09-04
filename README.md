@@ -76,8 +76,6 @@ robot go to the goal position:
 
    ```rosrun velocity_publisher robot_control```
 
-__________________________________________________________________________
-
 4) If you want to run for a different test case run the following command (It will generate a shortest_path.txt file with the waypoint nodes for the robot
 to follow.):
 
