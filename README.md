@@ -1,6 +1,7 @@
 # Graph-based-Planning-Algorithms
 This repository contains the implementations of classical graph based planning algorithms.
 
+---
 ## Breadth First Search Algorithm
 This project implements the generalized solver for a point robot using the Breadth
 First Search algorithm. It has a Node class having the attributes and methods useful
@@ -41,7 +42,7 @@ finding the goal state for the maze. For the implementation video checkout [this
 ### Pygame Simulation 
 ![Astar](Astar/Astar.gif)
 
-
+---
 ## Astar with Differential constraints and simulation in ROS Gazebo
 This is an extension of the previous Astar implementation with simulation in ROS gazebo environment. For the implementation video checkout [this link](https://drive.google.com/file/d/1Raet7Rv4Xu6kGkfY20fyEApm3RU-xcgq/view?usp=sharing).
 
@@ -54,7 +55,7 @@ This is an extension of the previous Astar implementation with simulation in ROS
 ### Gazebo Simulation 
 ![Astar in ros](Astar_implemenatation_in_ROS/ros1.gif)
 
-
+---
 ### Dependencies
 1) rospy
 2) rospkg
@@ -62,7 +63,7 @@ This is an extension of the previous Astar implementation with simulation in ROS
 4) geometry_msgs
 5) sensor_msgs
 
-
+---
 ### How to run the code 
 1) The package for running the simulation is named *velocity_publisher*.
 2) Please run the below command to launch the turtlebot3 in the gazebo
