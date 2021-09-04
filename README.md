@@ -1,5 +1,5 @@
 # Graph-based-Planning-Algorithms
-This repository contains the implementations of classical graph based planning algorithms.
+This repository contains the implementation of classical graph based planning algorithms.
 
 ---
 ## Breadth First Search Algorithm
