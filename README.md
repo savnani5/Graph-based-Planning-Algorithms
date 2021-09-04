@@ -69,19 +69,19 @@ This is an extension of the previous Astar implementation with simulation in ROS
 2) Please run the below command to launch the turtlebot3 in the gazebo
 environment:
 
-  ```roslaunch velocity_publisher velocity_publisher.launch```
+   ```roslaunch velocity_publisher velocity_publisher.launch```
 
 3) After launching the above file, please run the below command to make the
 robot go to the goal position:
 
-  ```rosrun velocity_publisher robot_control```
+   ```rosrun velocity_publisher robot_control```
 
 __________________________________________________________________________
 
 4) If you want to run for a different test case run the following command (It will generate a shortest_path.txt file with the waypoint nodes for the robot
 to follow.):
 
-  ```rosrun velocity_publisher A_star```
+   ```rosrun velocity_publisher A_star```
 
 5) Then you can follow steps 2 and 3 again to simulate that path (Note: Please
 change the robot spawning position (x, y, yaw) in the *bringup.launch* file
